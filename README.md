@@ -7,7 +7,7 @@ This is a [Tap](https://docs.brew.sh/Taps) containing [Homebrew](http://brew.sh/
 
 ## Available Tools
 
-| tool                                                          | install
-| ------------------------------------------------------------- | ----------------------------------------
-| Capact                   | brew install capactio/tap/capact
-| Populator                      | brew install capactio/tap/populator
+| tool      | install                             |
+|-----------|-------------------------------------|
+| Capact    | brew install capactio/tap/capact    |
+| Populator | brew install capactio/tap/populator |
